@@ -1,4 +1,4 @@
-// Receive a string via RS232
+// Receive a string via UART
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
